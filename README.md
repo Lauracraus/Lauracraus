@@ -1,15 +1,15 @@
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Laura Craus</h1>
 <h3 align="center"> Data Analyst and Full Stack Developer with Business and Project Management experience </h3> 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauracraus&label=Profile%20views&color=0e75b6&style=flat" alt="lauracraus" /> </p>
+Heya! My name is Laura and I am currently studying to become a Data Analytics and Full Stack Developer. I am currently working as a Business and Project management for a big media company. 
+I will be posting here more information about my projects :) 
 
-- 🔭 I’m currently working on **weather app**
+- 🔭 I’m currently working on **developing a weather app**
 
 - 🌱 I’m currently learning **Python and Data Analytics**
 
-- 🤝 I’m looking for help with **finding a job**
+- 🤝 I’m looking for help with **finding a job in Analytics or Tech**
 
 - 👨‍💻 All of my projects are available at [https://www.shecodes.io/graduates/53258-laura-craus](https://www.shecodes.io/graduates/53258-laura-craus)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.shecodes.io/graduates/53258-laura-craus](https://www.shecodes.io/graduates/53258-laura-craus)
 
-- ⚡ Fun fact **I build human towers (Castellers)**
+- ⚡ Fun fact **I build human towers (Castellers)** - feel free to ask me about this! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
